@@ -1,6 +1,6 @@
 
 # Course-Selling App (Backend)
-
+Cohort 3.0 - 
 Just for Fun
 
     Initialize a new Node.js project
